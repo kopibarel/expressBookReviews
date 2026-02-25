@@ -1,0 +1,4 @@
+curl -X DELETE http://localhost:5000/customer/auth/review/9780385474542
+{
+    "message": "Review removed."
+}

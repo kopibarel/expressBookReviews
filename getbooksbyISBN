@@ -1,0 +1,7 @@
+curl http://localhost:5000/isbn/9780385474542
+{
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "isbn": "9780385474542",
+    "reviews": {}
+}
